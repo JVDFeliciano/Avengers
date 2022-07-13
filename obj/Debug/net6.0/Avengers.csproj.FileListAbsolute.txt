@@ -1,0 +1,8 @@
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.csproj.AssemblyReference.cache
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.AssemblyInfoInputs.cache
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.AssemblyInfo.cs
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.csproj.CoreCompileInputs.cache
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.RazorAssemblyInfo.cache
+D:\Cursos\Avengers\src\obj\Debug\net6.0\Avengers.RazorAssemblyInfo.cs
